@@ -84,7 +84,10 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-
 # key
 key.properties
+
+# idea
+/.idea
+
 
